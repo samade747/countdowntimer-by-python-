@@ -2,7 +2,7 @@ import time
 import streamlit as st
 
 #Streamlit UI setup
-st.title(" ⏳ Countdown Timer")
+st.title(" ⏳ Countdown Timer by samad")
 st.markdown("Enter the time in hours, min and sec to start the countdown timer")
 
 # user input for hours, mintues, and seconds,
